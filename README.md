@@ -40,6 +40,8 @@ Frontend (React)
 Backend (Spring Boot REST APIs)  
         ↓  
 Database (MySQL)
+![WhatsApp Image 2026-02-26 at 10 56 08](https://github.com/user-attachments/assets/51127688-df88-4fc5-8e0b-2e2e0486b3bf)
+
 
 ### Layers
 
@@ -190,3 +192,4 @@ cd frontend
 npm install
 npm start
 ```
+
