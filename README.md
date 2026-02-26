@@ -40,7 +40,15 @@ Frontend (React)
 Backend (Spring Boot REST APIs)  
         ↓  
 Database (MySQL)
-![WhatsApp Image 2026-02-26 at 10 56 08](https://github.com/user-attachments/assets/51127688-df88-4fc5-8e0b-2e2e0486b3bf)
+
+
+![WhatsApp Image 2026-02-26 at 10 56 08](https://github.com/user-attachments/assets/d223cec2-b946-4526-9949-6f64837cb324)
+![WhatsApp Image 2026-02-26 at 10 56 20](https://github.com/user-attachments/assets/ecd2424d-f8c0-4772-a43f-c0ed8a2b5349)
+
+![WhatsApp Image 2026-02-26 at 10 56 26](https://github.com/user-attachments/assets/66f61147-1fa0-407e-b8a7-5316ef512da1)
+
+![WhatsApp Image 2026-02-26 at 10 56 33](https://github.com/user-attachments/assets/60ba69f2-74df-404d-a9d1-b297664f5e8b)
+
 
 
 ### Layers
@@ -192,4 +200,5 @@ cd frontend
 npm install
 npm start
 ```
+
 
